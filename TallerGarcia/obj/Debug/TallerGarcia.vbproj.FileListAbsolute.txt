@@ -1,0 +1,221 @@
+D:\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.exe.config
+D:\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.exe
+D:\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.pdb
+D:\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.xml
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.AssemblyReference.cache
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.Resources.resources
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.GenerateResource.cache
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.CoreCompileInputs.cache
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.exe
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.xml
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.pdb
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.exe.config
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.exe
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.pdb
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.xml
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.AssemblyReference.cache
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmLogin.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.Resources.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.GenerateResource.cache
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.exe
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.xml
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.pdb
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmEspecialidades.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmMain.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmPropietarios.resources
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmEspecialidades.resources
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmLogin.resources
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmMain.resources
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmPropietarios.resources
+D:\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmRepuestos.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmRepuestos.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmAutos.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmOperarios.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmTareas.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.AssemblyReference.cache
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmAutos.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmEspecialidades.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresos.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmLogin.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmMain.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmOperarios.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmPropietarios.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmRepuestos.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmTareas.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.Resources.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.GenerateResource.cache
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.exe
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.xml
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.pdb
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.exe.config
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.exe
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.pdb
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.xml
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresosTareas.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresos.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresosRepuestos.resources
+C:\Users\usuario\Documents\GitHub\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresosTareas.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmImprimirPatente.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresosRepuestos.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmReportePatente.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmReporteGasto.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmReportePropietario.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\EnvDTE.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\stdole.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.MSXML.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.infGasto.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.infPatente.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.infPropietario.resources
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\RdlCompile.cache
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\RdlCompile.compiled
+D:\Visual Basic\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.CopyComplete
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.AssemblyReference.cache
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmAutos.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmEspecialidades.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmImprimirPatente.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresos.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresosRepuestos.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmIngresosTareas.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmLogin.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmMain.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmOperarios.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmPropietarios.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmReporteGasto.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmReportePatente.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmReportePropietario.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmRepuestos.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.frmTareas.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.infGasto.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.infPatente.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.infPropietario.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.Resources.resources
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.GenerateResource.cache
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\RdlCompile.cache
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\RdlCompile.compiled
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.CoreCompileInputs.cache
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.exe
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.xml
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.pdb
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.exe.config
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.exe
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.pdb
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\TallerGarcia.xml
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\EnvDTE.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\stdole.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\Microsoft.MSXML.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\visualProyectos\Taller_Garcia\TallerGarcia\obj\Debug\TallerGarcia.vbproj.CopyComplete
