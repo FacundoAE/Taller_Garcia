@@ -99,12 +99,70 @@ CREATE PROCEDURE totales
 @fecha_salida DATE
 As
 BEGIN
-select propietarios.nombre_prop,autos.id_propietario,SUM(ingresos_tareas.importe) As Total_Tareas,SUM(ingresos_respuestos.importe) As Total_Repuestos from ingresos
-inner join autos on ingresos.nro_patente = autos.nro_patente
-inner join propietarios on autos.id_propietario = propietarios.id_propietario
-inner join ingresos_tareas on ingresos.id_ingreso = ingresos_tareas.id_ingreso
-inner join ingresos_respuestos on ingresos.id_ingreso = ingresos_respuestos.id_ingreso
-where fecha_ing between @fecha_ingreso and @fecha_salida and autos.id_propietario = 1
-group by autos.id_propietario,propietarios.nombre_prop
+SELECT p.nombre_prop, a.id_propietario,
+       SUM(it.importe) AS total_tareas, 
+       SUM(ir.importe_rep) AS total_repuestos
+FROM propietarios p
+LEFT JOIN autos a ON p.id_propietario = a.id_propietario
+LEFT JOIN ingresos i ON a.nro_patente = i.nro_patente
+LEFT JOIN ingresos_tareas it ON i.id_ingreso = it.id_ingreso
+LEFT JOIN ingresos_respuestos ir ON i.id_ingreso = ir.id_ingreso
+WHERE p.id_propietario = @propietario
+  AND i.fecha_ing BETWEEN @fecha_ingreso AND @fecha_salida
+GROUP BY p.nombre_prop, a.id_propietario;
+END
+
+EXEC totales 2, '2023/01/01', '2023/03/01'
+
+--3.4
+
+CREATE PROCEDURE extraespecialidades As
+BEGIN
+SELECT es.especialidad AS Especialidad,COUNT(es.especialidad) As Cantidad_Operarios FROM operarios op
+INNER JOIN especialidades es ON es.id_especialidad = op.id_especialidad
+GROUP BY es.especialidad ORDER BY Cantidad_Operarios DESC
+END
+
+--3.5
+CREATE PROCEDURE extratareas As
+BEGIN
+SELECT tr.descripcion_tarea AS DESCRIPCION,COUNT(it.cod_tarea) AS DEMANDA from ingresos_tareas it
+INNER JOIN tareas tr ON tr.cod_tarea = it.cod_tarea
+GROUP BY it.cod_tarea, tr.descripcion_tarea ORDER BY DEMANDA DESC
 END
 -- FIN
+
+--USUARIO
+INSERT INTO usuarios VALUES(1,'admin','admin')
+
+--ESPECIALIDADES
+INSERT INTO especialidades VALUES(1,'Mecanica'),(2,'Chaperia')
+
+--PROPIETARIOS
+INSERT INTO propietarios VALUES(1,'Facundo','3410000000'),(2,'Alberto','3410000000')
+
+--REPUESTOS
+INSERT INTO repuestos VALUES(30303,'limpia parabrizas','500'),(20202,'espejo retrovisor','2000'),(10101,'bujia','1000')
+
+--OPERARIOS
+INSERT INTO operarios VALUES(1,'Martin',1,'500'),(2,'Cacho',2,'550'),(3,'Pocho',2,'450')
+
+--AUTOS
+INSERT INTO autos VALUES('EVV 671','Chevrolet','Corsa','Gris',1),('EOK 521','FIAT','DUNA','AZUL',1),('EWA 700','Peugeot','208','Rojo',2)
+
+--TAREAS
+INSERT INTO tareas VALUES(1,'abolladura',10,2),(2,'pintar techo',20,2),(3,'cambiar bujias',1,1),(4,'Revisar motor',3,1),(5,'Lustrado',2,2)
+
+--INGRESOS
+INSERT INTO ingresos VALUES
+('2023-02-28 19:25:00.000','EOK 521'),
+('2023-02-20 12:25:00.000','EOK 521'),
+('2023-03-01 15:00:00.000','EOK 521'),
+('2023-01-20 09:50:00.000','EVV 671'),
+('2023-02-12 15:00:00.000','EWA 700')
+
+--INGRESOS TAREAS
+INSERT INTO ingresos_tareas VALUES(1,1,20000),(2,2,10000),(3,3,2000),(4,4,5000),(5,4,9000)
+
+--INGRESOS REPUESTOS
+INSERT INTO ingresos_respuestos VALUES(4,30303,3500,2,7000),(5,10101,1200,8,9600)

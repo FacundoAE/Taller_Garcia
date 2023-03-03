@@ -59,4 +59,13 @@
         frmReporteGasto.ShowDialog()
     End Sub
 
+    Private Sub MásEspecialidadesEnElTallerToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MásEspecialidadesEnElTallerToolStripMenuItem.Click
+        Dim ExtraMasEspecialidades As New frmExtraMasEspecialidades
+        ExtraMasEspecialidades.ShowDialog()
+    End Sub
+
+    Private Sub TareasMásDemandadasToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TareasMásDemandadasToolStripMenuItem.Click
+        Dim TareasMasDemandadas As New frmExtraTareasMasDemandadas
+        TareasMasDemandadas.ShowDialog()
+    End Sub
 End Class

@@ -37,6 +37,9 @@ Partial Class frmMain
         Me.PatenteToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PropietarioToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GastosToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ExtrasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MásEspecialidadesEnElTallerToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.TareasMásDemandadasToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -44,7 +47,7 @@ Partial Class frmMain
         '
         Me.MenuStrip1.BackColor = System.Drawing.SystemColors.Highlight
         Me.MenuStrip1.Font = New System.Drawing.Font("Segoe UI", 12.0!)
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ABMToolStripMenuItem, Me.ReportesToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.ABMToolStripMenuItem, Me.ReportesToolStripMenuItem, Me.ExtrasToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Padding = New System.Windows.Forms.Padding(10)
@@ -138,6 +141,25 @@ Partial Class frmMain
         Me.GastosToolStripMenuItem.Size = New System.Drawing.Size(157, 26)
         Me.GastosToolStripMenuItem.Text = "Gastos"
         '
+        'ExtrasToolStripMenuItem
+        '
+        Me.ExtrasToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MásEspecialidadesEnElTallerToolStripMenuItem, Me.TareasMásDemandadasToolStripMenuItem})
+        Me.ExtrasToolStripMenuItem.Name = "ExtrasToolStripMenuItem"
+        Me.ExtrasToolStripMenuItem.Size = New System.Drawing.Size(63, 25)
+        Me.ExtrasToolStripMenuItem.Text = "Extras"
+        '
+        'MásEspecialidadesEnElTallerToolStripMenuItem
+        '
+        Me.MásEspecialidadesEnElTallerToolStripMenuItem.Name = "MásEspecialidadesEnElTallerToolStripMenuItem"
+        Me.MásEspecialidadesEnElTallerToolStripMenuItem.Size = New System.Drawing.Size(289, 26)
+        Me.MásEspecialidadesEnElTallerToolStripMenuItem.Text = "Más especialidades en el taller"
+        '
+        'TareasMásDemandadasToolStripMenuItem
+        '
+        Me.TareasMásDemandadasToolStripMenuItem.Name = "TareasMásDemandadasToolStripMenuItem"
+        Me.TareasMásDemandadasToolStripMenuItem.Size = New System.Drawing.Size(289, 26)
+        Me.TareasMásDemandadasToolStripMenuItem.Text = "Tareas más demandadas"
+        '
         'frmMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -171,4 +193,7 @@ Partial Class frmMain
     Friend WithEvents PatenteToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents PropietarioToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents GastosToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents ExtrasToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents MásEspecialidadesEnElTallerToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents TareasMásDemandadasToolStripMenuItem As ToolStripMenuItem
 End Class

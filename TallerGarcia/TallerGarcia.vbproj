@@ -48,21 +48,21 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
-      <HintPath>packages\Corrected.Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
-      <HintPath>packages\Corrected.Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ReportViewer.Design, Version=15.3.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
-      <HintPath>packages\Corrected.Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
-      <HintPath>packages\Corrected.Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.WebForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
-    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
-      <HintPath>packages\Corrected.Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
@@ -103,6 +103,18 @@
       <DependentUpon>frmEspecialidades.vb</DependentUpon>
     </Compile>
     <Compile Include="frmEspecialidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExtraMasEspecialidades.Designer.vb">
+      <DependentUpon>frmExtraMasEspecialidades.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExtraMasEspecialidades.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExtraTareasMasDemandadas.Designer.vb">
+      <DependentUpon>frmExtraTareasMasDemandadas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExtraTareasMasDemandadas.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmImprimirPatente.Designer.vb">
@@ -222,6 +234,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>taller_garciaDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="taller_garciaDataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>taller_garciaDataSet2.xsd</DependentUpon>
+    </Compile>
     <Compile Include="variables.vb" />
   </ItemGroup>
   <ItemGroup>
@@ -230,6 +247,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmEspecialidades.resx">
       <DependentUpon>frmEspecialidades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExtraMasEspecialidades.resx">
+      <DependentUpon>frmExtraMasEspecialidades.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExtraTareasMasDemandadas.resx">
+      <DependentUpon>frmExtraTareasMasDemandadas.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmImprimirPatente.resx">
       <DependentUpon>frmImprimirPatente.vb</DependentUpon>
@@ -270,6 +293,8 @@
     <EmbeddedResource Include="frmTareas.resx">
       <DependentUpon>frmTareas.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="infExtraEspecialidades.rdlc" />
+    <EmbeddedResource Include="infExtraTareas.rdlc" />
     <EmbeddedResource Include="infGasto.resx">
       <DependentUpon>infGasto.vb</DependentUpon>
     </EmbeddedResource>
@@ -311,6 +336,17 @@
     </None>
     <None Include="taller_garciaDataSet.xss">
       <DependentUpon>taller_garciaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="taller_garciaDataSet2.xsc">
+      <DependentUpon>taller_garciaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="taller_garciaDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>taller_garciaDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="taller_garciaDataSet2.xss">
+      <DependentUpon>taller_garciaDataSet2.xsd</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>

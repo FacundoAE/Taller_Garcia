@@ -1,5 +1,5 @@
 ﻿Module conexion
-    Public conexion As New SqlClient.SqlConnection("Data Source=DESKTOP-TMD9FM2\SQLEXPRESS;Initial Catalog=taller_garcia;Integrated Security=false; user id=sa;password=Alberto01")
+    Public conexion As New SqlClient.SqlConnection("Data Source=DESKTOP-VHUQMDS\SQLEXPRESS;Initial Catalog=taller_garcia;Integrated Security=false; user id=sa;password=Ambar01")
     Public cmd As New SqlClient.SqlCommand
     Public dr As SqlClient.SqlDataReader
     Public Sub conectar()

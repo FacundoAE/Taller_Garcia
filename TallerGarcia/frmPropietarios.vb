@@ -40,7 +40,7 @@
     End Sub
 
     Private Sub btnAlta_Click(sender As Object, e As EventArgs) Handles btnAlta.Click
-        MsgBox("Seleccionaste dar de alta una especialidad", MsgBoxStyle.Information)
+        MsgBox("Seleccionaste dar de alta un propietario", MsgBoxStyle.Information)
         anchoPantalla(650)
         flag_abm = 1
         limpiarTextBox()
@@ -48,7 +48,7 @@
         Me.txbTelefonoPropietario.Enabled = True
     End Sub
     Private Sub btnModificar_Click(sender As Object, e As EventArgs) Handles btnModificar.Click
-        MsgBox("Seleccionaste modificar una especialidad", MsgBoxStyle.Information)
+        MsgBox("Seleccionaste modificar un propietario", MsgBoxStyle.Information)
         anchoPantalla(650)
         flag_abm = 2
         limpiarTextBox()
@@ -59,7 +59,7 @@
         Me.txbTelefonoPropietario.Text = Me.dgvPropietarios.CurrentRow.Cells(2).Value.ToString
     End Sub
     Private Sub btnBaja_Click(sender As Object, e As EventArgs) Handles btnBaja.Click
-        MsgBox("Seleccionaste dar de baja una especialidad", MsgBoxStyle.Information)
+        MsgBox("Seleccionaste dar de baja un propietario", MsgBoxStyle.Information)
         anchoPantalla(650)
         flag_abm = 3
         limpiarTextBox()

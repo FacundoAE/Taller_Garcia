@@ -332,5 +332,350 @@ Update Order Option
 Used to sort self-referenced table's rows
 </summary>
 </member>
+<member name="T:TallerGarcia.taller_garciaDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.autosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.especialidadesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresos_respuestosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresos_tareasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.operariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.propietariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.repuestosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.tareasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.usuariosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.extraespecialidadesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.extratareasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.patenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.propietarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.totalesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.autosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.especialidadesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresos_respuestosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresos_tareasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.operariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.propietariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.repuestosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.tareasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.usuariosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.extraespecialidadesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.extratareasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.patenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.propietarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.totalesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.autosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.especialidadesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresos_respuestosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.ingresos_tareasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.operariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.propietariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.repuestosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.tareasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.usuariosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.extraespecialidadesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.extratareasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.patenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.propietarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2.totalesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.autosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.especialidadesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.ingresosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.ingresos_respuestosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.ingresos_tareasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.operariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.propietariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.repuestosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.tareasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.usuariosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.extraespecialidadesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.extratareasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.patenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.propietarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.totalesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TallerGarcia.taller_garciaDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(TallerGarcia.taller_garciaDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TallerGarcia.taller_garciaDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(TallerGarcia.taller_garciaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TallerGarcia.taller_garciaDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(TallerGarcia.taller_garciaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TallerGarcia.taller_garciaDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TallerGarcia.taller_garciaDataSet2TableAdapters.TableAdapterManager.UpdateAll(TallerGarcia.taller_garciaDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TallerGarcia.taller_garciaDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
 </members>
 </doc>
